@@ -1,0 +1,1 @@
+Unity Dump global-metadata.dat，使用Il2CppDumper查看Assembly-CSharp.dll，定位内存偏移
